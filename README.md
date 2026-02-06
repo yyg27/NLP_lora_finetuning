@@ -1,7 +1,7 @@
 
 # NLP LoRA Fine-Tuning 
 
-This repository provides a streamlined and efficient pipeline for fine-tuning Large Language Models (LLMs) using **LoRA (Low-Rank Adaptation)**. By leveraging parameter-efficient techniques, you can train powerful models on consumer-grade hardware without sacrificing performance.
+This project provides a streamlined and efficient pipeline for fine-tuning Large Language Models (LLMs) using **LoRA (Low-Rank Adaptation)**. By leveraging parameter-efficient techniques, you can train powerful models on consumer-grade hardware without sacrificing performance.
 
 ## Overview
 
